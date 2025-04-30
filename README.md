@@ -1,6 +1,6 @@
-# my_flutter_app
+# Loyalty_Card
 
-A new Flutter project.
+A new Flutter project. where user can add card, see the deatils of card.
 
 ## Getting Started
 
